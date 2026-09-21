@@ -1,3 +1,3 @@
-# Prática 4
+# Prática 5
 
-Pasta destinada aos arquivos da Prática 04.
+Pasta destinada aos arquivos da Prática 05.
