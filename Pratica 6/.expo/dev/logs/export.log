@@ -1,0 +1,15 @@
+{"_e":"root:init","_t":1790291010474,"format":"v0-jsonl","version":"57.0.27"}
+{"_e":"env:mode","_t":1790291010736,"nodeEnv":"production","babelEnv":"production","mode":"production"}
+{"_e":"env:load","_t":1790291010745,"mode":"production","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790291010767,"mode":"production","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":true}
+{"_e":"metro:config","_t":1790291011097,"serverRoot":"../../..","projectRoot":"../../..","exporting":true,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1790291011248,"atlas":false,"workers":3,"host":null,"port":null}
+{"_e":"metro:bundling:started","_t":1790291011600,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"root:init","_t":1790291197845,"format":"v0-jsonl","version":"57.0.27"}
+{"_e":"env:mode","_t":1790291198139,"nodeEnv":"production","babelEnv":"production","mode":"production"}
+{"_e":"env:load","_t":1790291198143,"mode":"production","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790291198175,"mode":"production","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":true}
+{"_e":"metro:config","_t":1790291198508,"serverRoot":"../../..","projectRoot":"../../..","exporting":true,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1790291198687,"atlas":false,"workers":3,"host":null,"port":null}
+{"_e":"metro:bundling:started","_t":1790291199024,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:done","_t":1790291203286,"id":"1","total":499,"ms":4262.122168}
